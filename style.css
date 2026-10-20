@@ -45,3 +45,4 @@ h3{font:1.6rem "Permanent Marker",cursive;color:var(--t);margin-bottom:6px}
 @media(max-width:900px){.links{display:none}.hero-row,.two,.two.rev{grid-template-columns:1fr}.hero-logo{width:150px;height:150px}.steps{grid-template-columns:1fr 1fr}.gal{grid-template-columns:1fr 1fr}.gal .w2,.gal .w3{grid-column:span 2}.foot .wrap{flex-direction:column;align-items:flex-start}}
 @media(max-width:520px){.steps{grid-template-columns:1fr}.gal{grid-template-columns:1fr}.gal .w2,.gal .w3{grid-column:auto}.btn.sm{display:none}}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.rv{opacity:1;transform:none}}
+.r43{aspect-ratio:4/3}
